@@ -27,7 +27,7 @@
         />
       </div>
     </div>
-    <div class="w-full md:w-2/3">
+    <div class="w-full md:w-2/3 mt-12 md:mt-0">
       <p v-if="!playlist.songs.length" class="opacity-75">
         No songs have been added to this playlist yet
       </p>
